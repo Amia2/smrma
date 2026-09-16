@@ -1,0 +1,2 @@
+print('hi')
+Python -version
